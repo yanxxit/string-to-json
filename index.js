@@ -48,9 +48,7 @@ function strToJSON(word) {
 
 if (module.parent) {
   // 被 require，则导出 app
-  module.exports = {
-    strToJSON
-  }
+  module.exports = strToJSON
 } else {
   // boolean,number,string,date
   // let word = "{'a':'1','b':1,'c':3}";
