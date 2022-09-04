@@ -7,7 +7,7 @@ Fixed the JSON string format
 
 ## use
 ```js
-const stringToJSON = require("str-to-json");
+const jsonlib = require("str-to-json");
 
-console.log(stringToJSON("{'a':'a','b':1.2,'c':ture}"))
+console.log(jsonlib.stringToJSON("{'a':'a','b':1.2,'c':ture}"))
 ```
