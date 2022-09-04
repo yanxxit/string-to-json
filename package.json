@@ -1,0 +1,25 @@
+{
+  "name": "string-to-json",
+  "version": "1.0.0",
+  "description": "string to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanxxit/string-to-json.git"
+  },
+  "keywords": [
+    "string-to-json",
+    "strToJSON",
+    "json",
+    "error"
+  ],
+  "author": "yanxxit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanxxit/string-to-json/issues"
+  },
+  "homepage": "https://github.com/yanxxit/string-to-json#readme"
+}
