@@ -1,6 +1,6 @@
 {
-  "name": "string-to-json",
-  "version": "1.0.0",
+  "name": "str-to-json",
+  "version": "1.0.1",
   "description": "string to json",
   "main": "index.js",
   "scripts": {
