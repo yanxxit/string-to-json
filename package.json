@@ -1,6 +1,6 @@
 {
   "name": "str-to-json",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "string to json",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,7 @@
   "keywords": [
     "string-to-json",
     "strToJSON",
-    "json",
-    "error"
+    "Fixed the JSON string format"
   ],
   "author": "yanxxit",
   "license": "ISC",
